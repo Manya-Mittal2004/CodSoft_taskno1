@@ -1,2 +1,2 @@
-# CodeSoft_my-work_taskno1
+# CodSoft_my-work_taskno1
 August Internship UI/UX designing
